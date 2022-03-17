@@ -5,8 +5,8 @@ WhatsApp msg automation using python module pywhatkit.
 Using this python module anyone can easily automate their  textmessages to anyone at anytime.
 
 The only requirement are,
-* 1) Host device should be connected to internet.
-* 2) what'sapp web should be working on your default browser.
+*  Host device should be connected to internet.
+*  what'sapp web should be working on your default browser.
 One more line of python code and your ready to go.
 
 YEAH just one line of python code.
